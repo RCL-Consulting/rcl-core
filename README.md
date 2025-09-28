@@ -18,7 +18,6 @@ This library underpins higher-level projects such as:
 
 - [QuadMind](https://github.com/RCL-Consulting/QuadMind) – AI-assisted mesh generation  
 - [QMVision](https://github.com/RCL-Consulting/QMVision) – OpenGL-based mesh viewer  
-- [Wombat](https://github.com/RCL-Consulting/Wombat) – Web-based assessment platform  
 
 ---
 
